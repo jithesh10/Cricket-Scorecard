@@ -1,3 +1,3 @@
 # Cricket-Scorcard
--Built with the data structure - Single Linked Lists
--Displays a Scorecard for a cricket game
+- Built with Single Linked Lists DS
+- Displays the Scorecard for a cricket game
